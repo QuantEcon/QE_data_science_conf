@@ -37,8 +37,10 @@ QuantEcon discussion for the [Berkeley Data Science x Economics conference](http
 
 ### Discussion by Fedor Iskhakov
 
-* Fedor, please edit  
-
+* Computational economics course [at ANU](https://programsandcourses.anu.edu.au/course/econ3127)
+* Remote teaching using [screencasting](https://fedor.iskh.me/compecon)
+* Using [Jupinx](https://jupinx.quantecon.org/) to keep track of lectures and assignment notebooks
+* Using [GitHub Classrooms](https://classroom.github.com/classrooms) for interactions with the students
 
 ### Discussion by Bertel Schjerning
 
