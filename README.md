@@ -32,9 +32,12 @@ QuantEcon discussion for the [Berkeley Data Science x Economics conference](http
 * Lecture notebooks on cloud-based Jupyter hub on campus: [ubc.syzygy.ca](https://ubc.syzygy.ca/)
 * Student feedback, and [final project showcases](https://datascience.quantecon.org/projects.html)
 
+
 ### Discussion by Chase Coleman
 
-* Chase, please edit
+* Teaching data science, finance, and economics (Peking HSBC Business School)
+* Why companies are hiring economists
+* Importance of teaching software engineering (and other non-analytical tools) to non-software engineers
 
 
 ### Discussion by Fedor Iskhakov
@@ -43,7 +46,6 @@ QuantEcon discussion for the [Berkeley Data Science x Economics conference](http
 * Remote teaching using [screencasting](https://fedor.iskh.me/compecon)
 * Using [Jupinx](https://jupinx.quantecon.org/) to keep track of lectures and assignment notebooks
 * Using [GitHub Classrooms](https://classroom.github.com/classrooms) for interactions with the students
-
 
 
 ### Closing Discussion by Tom Sargent
