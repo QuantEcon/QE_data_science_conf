@@ -8,7 +8,6 @@ QuantEcon discussion for the [Berkeley Data Science x Economics conference](http
 * [Peifan Wu](https://peifanwu.weebly.com/)
 * [Chase Coleman](http://www.chasegcoleman.com/)
 * [Fedor Iskhakov](https://fedor.iskh.me/)
-* [Bertel Schjerning](http://www.bschjerning.com/)
 * [Thomas Sargent](http://www.tomsargent.com/)
 
 
@@ -45,9 +44,6 @@ QuantEcon discussion for the [Berkeley Data Science x Economics conference](http
 * Using [Jupinx](https://jupinx.quantecon.org/) to keep track of lectures and assignment notebooks
 * Using [GitHub Classrooms](https://classroom.github.com/classrooms) for interactions with the students
 
-### Discussion by Bertel Schjerning
-
-* Bertel, please edit
 
 
 ### Closing Discussion by Tom Sargent
