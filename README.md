@@ -27,8 +27,11 @@ QuantEcon discussion for the [Berkeley Data Science x Economics conference](http
 
 ### Discussion by Peifan Wu
 
-* Peifan, please edit
-
+* [Hybrid course on economics and data science](https://github.com/ubcecon/ECON323_2020) at UBC, based on [QuantEcon DataScience](https://datascience.quantecon.org/)
+* Data wrangling and analysis [using Pandas](https://datascience.quantecon.org/pandas/)
+* Basic machine learning and [econometric applications](https://datascience.quantecon.org/applications/ml_in_economics.html)
+* Lecture notebooks on cloud-based Jupyter hub on campus: [ubc.syzygy.ca](https://ubc.syzygy.ca/)
+* Student feedback, and [final project showcases](https://datascience.quantecon.org/projects.html)
 
 ### Discussion by Chase Coleman
 
@@ -48,4 +51,3 @@ QuantEcon discussion for the [Berkeley Data Science x Economics conference](http
 
 
 ### Closing Discussion by Tom Sargent
-
